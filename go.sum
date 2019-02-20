@@ -8,8 +8,6 @@ github.com/golang/protobuf v1.2.0/go.mod h1:6lQm79b+lXiMfvg/cZm0SGofjICqVBUtrP5y
 github.com/golang/protobuf v1.2.1-0.20181127190454-8d0c54c12466 h1:Kz9p8XEhFbEfi4ka99LEEwIXF4jqyIdB5fuh7UbMFj4=
 github.com/golang/protobuf v1.2.1-0.20181127190454-8d0c54c12466/go.mod h1:Qd/q+1AKNOZr9uGQzbzCmRO6sUih6GTPZv6a1/R87v0=
 github.com/kisielk/gotool v1.0.0/go.mod h1:XhKaO+MFFWcvkIS/tQcRk01m1F5IRFswLeQ+oQHNcck=
-github.com/sansigma/ssigmaapigo v0.0.0-20190213045340-5b817a691ec3 h1:uk13M4yzg1VRgyhIveBpSyaXvKHRTmOA+n9184yh2W4=
-github.com/sansigma/ssigmaapigo v0.0.0-20190213045340-5b817a691ec3/go.mod h1:D4yLsFfQaCafw0k2GXVaX/aUDN6Pyvnm0SIECFoAh9c=
 golang.org/x/exp v0.0.0-20190121172915-509febef88a4/go.mod h1:CJ0aWSM057203Lf6IL+f9T1iT9GByDxfZKAQTCR3kQA=
 golang.org/x/lint v0.0.0-20180702182130-06c8688daad7/go.mod h1:UVdnD1Gm6xHRNCYTkRU2/jEulfH38KcIWyp/GAMgvoE=
 golang.org/x/lint v0.0.0-20181026193005-c67002cb31c3/go.mod h1:UVdnD1Gm6xHRNCYTkRU2/jEulfH38KcIWyp/GAMgvoE=
